@@ -5,5 +5,5 @@
 
 void print_message(void)
 {
-    printf("Hello World!\n");
+    printf("Hello World! for everyone\n");
 }
